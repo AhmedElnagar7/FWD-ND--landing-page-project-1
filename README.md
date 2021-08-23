@@ -32,13 +32,13 @@
 
 ### our steps to did it
 
-1 First : start with standerd project file from udacity
-2 Update its HTML structure
-3 Update its CSS style
-4 build menu by JS
-5 build its functionality with JavaScript
-6 test website ,all functions ,and events
-7 write README
+1. First : start with standerd project file from udacity
+2. Update its HTML structure
+3. Update its CSS style
+4. build menu by JS
+5. build its functionality with JavaScript
+6. test website ,all functions ,and events
+7. write README
 
 <hr>
 
