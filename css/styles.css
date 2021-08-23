@@ -10,7 +10,7 @@
 
 /* ---- Base Rules ---- */
 body {
-  background-image: url(/css/img/bga.png);
+  background-image: url(img/bga.png);
   margin: 0;
   font-family: calibri /* "Merriweather", serif */;
   color: #333;
@@ -127,7 +127,7 @@ nav {
 
 /* main Header Styles */
 .page__header {
-  background-image: url(/css/img/header/bg-nav.png);
+  background-image: url(img/header/bg-nav.png);
   position: fixed;
   top: 0;
   width: 100%;
@@ -141,7 +141,7 @@ nav {
 }
 
 #herobg {
-  background-image: url(/css/img/header/Hero-img-bg.png);
+  background-image: url(img/header/Hero-img-bg.png);
   background-position: center;
   height: 500px;
   margin-top: 3vh;
@@ -381,7 +381,7 @@ section.active-section .landing__container::after {
 
 /* ----------footer---------- */
 .page__footer {
-  background-image: url(/css/img/footer/bg.png);
+  background-image: url(img/footer/bg.png);
   height: 50px;
   text-align: center;
   padding-top: 0.01em;
