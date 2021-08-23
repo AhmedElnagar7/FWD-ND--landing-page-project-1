@@ -47,7 +47,11 @@
 - HTML 5
 - CSS 3
 - JS
-
+---
+-img
+  -photoshop
+  -illistrator
+  
 <hr>
 
 ### Live photo
