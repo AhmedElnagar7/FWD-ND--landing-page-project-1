@@ -48,9 +48,10 @@
 - CSS 3
 - JS
 ---
--img
-  -photoshop
-  -illistrator
+
+- #### img and some styles
+  - photoshop
+  - illistrator
   
 <hr>
 
